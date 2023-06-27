@@ -1,6 +1,7 @@
 # odin-recipes
-A toy HTML website for showcasing recipes in pop culture
+This is the bar service website it consist only HTML:
 
 Live site: https://nshutiuzii.github.io/odin-recipes/
 
-NOTE: I stopped the Odin Project a long time ago and switched my focus to data science/analytics instead, but I hope this repo can be a good reference for your first Odin Project assignment. Cheers :)
+NOTE: This website identify and concern with my study it is not regal 
+# ANDELA KICKSTART
